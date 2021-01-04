@@ -1,3 +1,4 @@
 qwer
 asdf
 add func1
+add func2
